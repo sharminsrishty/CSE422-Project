@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data science / Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+.env
+
+# PDF generation artifacts (optional, keep if you want them in GitHub)
+# assets/
+# *.pdf
+
+# IDE settings
+.vscode/
+.idea/
